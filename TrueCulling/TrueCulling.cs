@@ -16,6 +16,9 @@ namespace TrueCulling
             harmony.PatchAll();
         }
 
-        
+        public class PatchAssetManager
+        {
+
+        }
     }
 }
